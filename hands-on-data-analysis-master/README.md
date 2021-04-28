@@ -47,28 +47,6 @@
 |    | 2.模型评估	    | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0---%E8%AF%84%E4%BB%B7-%E8%AF%BE%E7%A8%8B.ipynb)     |
 |     |      | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0---%E8%AF%84%E4%BB%B7.ipynb)       |
 
-## 反馈
-* 如果有任何想法可以联系邮箱（chenands@qq.com）
-* 欢迎大家提issues
-
-## 成员介绍
-
-| 姓名   | 属性                 | 地址                                                       |
-| ------ | -------------------- | ---------------------------------------------------------- |
-| 陈安东 | 中央民族大学         | 知乎：https://www.zhihu.com/people/wang-ya-fei-48          |
-| 金娟娟 | 浙江大学硕士         | 知乎：https://www.zhihu.com/people/wu-shi-lan-xiao-wang-zi |
-| 杨佳达 | 数据挖掘师 | GitHub:https://github.com/yangjiada      |
-| 老表   | 公众号简说Python作者         | 个人公众号：简说Python                                                   |
-| 李玲   | 算法工程师           | 知乎：https://www.zhihu.com/people/liu-yu-18-38            |
-| 张文涛 | 中山大学博士研究生   | GitHub： https://github.com/Fatflower                      |
-| 高立业 | 太原理工大学研究生   | GitHub：https://github.com/0-yy-0                          |
-
-## 关注我们
-
-扫描下方二维码，然后回复关键词“动手学数据分析”，即可加入“数据分析项目交流群”
-
-![datawhale](./datawhale.jpeg)
-
 
 
 ## LICENSE
